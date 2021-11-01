@@ -1,0 +1,31 @@
+.banner{
+    background-image: url(../../img/banner-3.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    position: relative;
+    z-index: 1;
+    background-attachment: fixed;
+}
+
+.banner:before{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #333;
+    opacity: 0.3;
+    z-index: -1;
+}
+section.banner h1 {
+    font-size: 45px;
+    line-height: 1.6;
+    color: #fff;
+    font-weight: 700;
+}
+section.banner p {
+    color: #fff;
+    font-size: 18px;
+}

@@ -1,0 +1,9 @@
+.single-service img {
+    height: 200px;
+}
+
+.single-service {
+    margin: 20px 0px;
+    box-shadow: 0 0 10px #ccc;
+    padding: 20px;
+}

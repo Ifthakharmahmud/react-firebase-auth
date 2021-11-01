@@ -1,0 +1,17 @@
+.notFound{
+    width: 50%;
+    text-align: center;
+    margin: 50px auto;
+    display: block;
+}
+section.error a {
+    display: block;
+    width: 150px;
+    background: burlywood;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,27 @@
+section.nursing p {
+    font-size: 20px;
+    line-height: 2;
+}
+
+section.equity {
+    background: #BA624A;
+}
+
+section.equity h2 {
+    color: #fff;
+}
+
+section.equity p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.8;
+    width: 70%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+    section.equity p {
+        
+        width: 100%;
+    }
+}

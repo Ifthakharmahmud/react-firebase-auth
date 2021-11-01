@@ -1,0 +1,15 @@
+section.about {
+    margin-top: 80px;
+    text-align: center;
+}
+
+section.about h2 {
+    margin-bottom: 50px;
+}
+
+section.about p {
+    font-size: 18px;
+    width: 60%;
+    margin-top: 40px;
+    margin: 40px auto;
+}

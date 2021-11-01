@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":"Prenatal visits",
+        "description":"We’ll schedule monthly appointments up until 28 weeks, bi-weekly until 36 weeks, and weekly until birth, with an option to do some appointments virtually. Prenatal visits include clinical assessment of you and your baby, any necessary bloodwork, ultrasounds as desired and referrals for more specialized testing.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_illo-Pre_Care_20101_ZL.png"
+    },
+    {
+        "id": 2,
+        "name":"Virtual coaching",
+        "description":"Meet with a midwife or holistic coach from the comfort of your own home. Our Virtual Preconception Coaching is geared for those planning to begin their pregnancy journey in the next 6 months, and our Virtual Early Prenatal Coaching is for that anxious time between your positive pregnancy test and your first official visit.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_illo-virtual-coaching_20101_ZL.png"
+    },
+    {
+        "id": 3,
+        "name":"Delivery",
+        "description":"The Oula care team is delivering all babies at Mt Sinai West hospital today, and our birth center is coming in the next year as a safe option for those that prefer not to deliver in a hospital, but still be in close proximity to one.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_illo-delivery-3_ZL.png"
+    },
+    {
+        "id": 4,
+        "name":"Fourth trimester care",
+        "description":"We’ll keep supporting you after the baby has arrived with virtual check-ins throughout those critical first weeks, alongside your pediatrician.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_illo-FourthTri-1_ZL-Copy.png"
+    },
+    {
+        "id": 5,
+        "name":"Community Service",
+        "description":"We host community events with related mission-aligned brands, and your dedicated care coordinator will work to help you find any supplemental services you might need. Whether that’s finding a doula, lactation consultant, nutritional guidance, mental health or pelvic floor therapy.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_illo-Birth_Classes_20101_ZL.png"
+    },
+    {
+        "id": 6,
+        "name":"Online Support",
+        "description":"Keep your care team in your pocket between appointments. Navigate key decisions, build your prenatal care plan, and message your team whenever you need them. Because the most personal experience in your life deserves a personalized plan.",
+        "img": "https://oulahealth.com/wp-content/uploads/2020/10/Oula_App_RGB__Terracotta.png"
+    }
+]
